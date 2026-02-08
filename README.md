@@ -32,7 +32,7 @@ This project provides a Raspberry Pi 4 edge analytics node that reads IMU (I2C) 
 
 The logs will show JSON payloads being published to the broker.
 
-## Hardware Setup (Optional)
+## Hardware Setup 
 
 - IMU: MPU6050 on I2C (default address 0x68)
 - Temperature: SPI sensor (example: MAX6675)
