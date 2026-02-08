@@ -10,7 +10,7 @@ This project provides a Raspberry Pi 4 edge analytics node that reads IMU (I2C) 
 - Dockerized stack with Mosquitto broker and cert generator
 - Mock mode for hardware-free validation
 
-## Quick Start (Mock Mode)
+## Quick Start
 
 1. Build images:
 
